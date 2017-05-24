@@ -6,6 +6,7 @@
 <tr>
 <th>Proyecto</th>
 <th>Autor(es)</th>
+<th>Terminado(S/N)</th>
 </tr>
 </thead>
 <tbody>
