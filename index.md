@@ -1,9 +1,19 @@
 # Proyectos Semestre 2016-2017/II
 
 ## Grupo 09-10
-Proyecto | Autor(es)
----------|----------
-[Word of Warcaft](https://acominf.github.io/WordOfWarcaft/)|Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz
+<table>
+<tr>
+<th>Proyecto</th>
+<th>Autor(es)</th>
+</tr>
+<tr>
+<td>
+[Word of Warcaft](https://acominf.github.io/WordOfWarcaft/)
+</td>
+<td>
+Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz
+</td>
+</tr>
 [Space Time](https://acominf.github.io/SpaceTime/)|Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales
 [Catch-Verbs](https://acominf.github.io/CatchVerbs/)|Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez
 [Tower Defense](https://acominf.github.io/TowerDefense/)|Erick  Garrigos Saucedo<br>Jairo Trujillo Mendez
@@ -12,6 +22,7 @@ Proyecto | Autor(es)
 [Acertijos](https://acominf.github.io/Acertijos/)|Josue Misael  Agundis Romero<br>Reyna Sarahi Avila Gonzalez
 [Capturing the Word](https://acominf.github.io/CapturingTheWord/)|Luis  Cisneros Torres<br>Zuraya Ivonne Lopez Ortiz
 [You Card Word](https://acominf.github.io/YouCardWord/)|Manuel Alejandro  Robledo Briones<br> Roberto Ignacio Zapata Govea
+</table>
 
 ## Grupo 11-12
 Proyecto | Autor(es)|Aprobado
