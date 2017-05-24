@@ -2,18 +2,22 @@
 
 ## Grupo 09-10
 <table>
+<thead>
 <tr>
 <th>Proyecto</th>
 <th>Autor(es)</th>
 </tr>
+</thead>
+<tbody>
 <tr>
 <td>
-[Word of Warcaft](https://acominf.github.io/WordOfWarcaft/)
+<a href="https://acominf.github.io/WordOfWarcaft">Word of Warcaft</a>
 </td>
 <td>
 Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz
 </td>
 </tr>
+</tbody>
 [Space Time](https://acominf.github.io/SpaceTime/)|Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales
 [Catch-Verbs](https://acominf.github.io/CatchVerbs/)|Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez
 [Tower Defense](https://acominf.github.io/TowerDefense/)|Erick  Garrigos Saucedo<br>Jairo Trujillo Mendez
