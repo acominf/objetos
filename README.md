@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Proyectos Semestre 2016-2017/II
 
-You can use the [editor on GitHub](https://github.com/acominf/objetos/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Estado|Proyecto | Autor(es)
+--------|---------|----------
+:hourglass:|[App para restaurantes](https://acominf.github.io/AppRestaurante/)|Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+:hourglass:|[ChambApp](https://acominf.github.io/ChambApp/)|José Bernardo Bernal Cabrera<br>David Andres Garza Medina
 
-### Markdown
+:hourglass:|[CodeLine](https://acominf.github.io/CodeLine/)|Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+:hourglass:|[Corre Corre!!!](https://acominf.github.io/CorreCorre/)|Luis Ángel Carrizales Cerda
+:hourglass:|[Cruza por el premio](https://acominf.github.io/CruzaPorElPremio/)|Sonia Virginia Hernández Huerta
+:hourglass:|[Cygnus X-1](https://acominf.github.io/CygnusX-1/)|Oscar Armando Gonzalez Patiño<br>Hector Andrey Hernandez Alonso
 
-```markdown
-Syntax highlighted code block
+:hourglass:|[Editor de diagramas UML](https://acominf.github.io/EditorUML/)|Ivan Eduardo Martínez Cadena<br>Diego Alejandro Ochoa Gonzalez
 
-# Header 1
-## Header 2
-### Header 3
+:hourglass:|[Game of Sakura Card Captor](https://acominf.github.io/GameOfSakura/)|Karen Daniela Bautista Martínez<br>Margarita Neftalí Méndez Rodríguez
 
-- Bulleted
-- List
+:hourglass:|[Mega Soldier](https://acominf.github.io/MegaSoldier/)|Jonathan Israel Baro De León<br>Karla Stephania Rosas Del Valle
 
-1. Numbered
-2. List
+:hourglass:|[Tiny Travel Inside Beasts](https://acominf.github.io/TinyTravel/)|Alejandro Esau Alvarez Ruiz<br>Zazil Josefina Ibarra Cuevas
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acominf/objetos/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+:hourglass:|[Top Gear](https://acominf.github.io/TopGear/)|Enrique Murillo Rivera
+:hourglass:|[Turn it on!](https://acominf.github.io/TurnItOn/)|José Pablo García Limón<br>Daniel Omar Torres Carbajal
