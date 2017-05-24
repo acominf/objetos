@@ -10,13 +10,10 @@
 </thead>
 <tbody>
 <tr>
-<td>
-<a href="https://acominf.github.io/WordOfWarcaft">Word of Warcaft</a>
-</td>
-<td>
-Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz
-</td>
+<td><a href="https://acominf.github.io/WordOfWarcaft">Word of Warcaft</a></td>
+<td>Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz</td>
 </tr>
+<tr><td><a href='https://acominf.github.io/AppRestaurante/'>App para restaurantes</a></td><td>Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz</td></tr>)
 </tbody>
 [Space Time](https://acominf.github.io/SpaceTime/)|Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales
 [Catch-Verbs](https://acominf.github.io/CatchVerbs/)|Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez
