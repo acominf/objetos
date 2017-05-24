@@ -1,5 +1,19 @@
 # Proyectos Semestre 2016-2017/II
 
+## Grupo 09-10
+Proyecto | Autor(es)|Aprobado
+---------|----------|--------
+[Word of Warcaft](https://acominf.github.io/WordOfWarcaft/)|Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz
+[Space Time](https://acominf.github.io/SpaceTime/)|Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales
+[Catch-Verbs](https://acominf.github.io/CatchVerbs/)|Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez
+[Tower Defense](https://acominf.github.io/TowerDefense/)|Erick  Garrigos Saucedo<br>Jairo Trujillo Mendez
+[Dungeon of Words](https://acominf.github.io/DungeonOfWords/)|Gerardo Antonio Varela Tristan<br>Ricardo Enrique Moreno Torres
+[Upbars](https://acominf.github.io/Upbars/)|Jonathan Eduardo Quistiano Hernandez<br>Salvador Rivera
+[Acertijos](https://acominf.github.io/Acertijos/)|Josue Misael  Agundis Romero<br>Reyna Sarahi Avila Gonzalez
+[Capturing the Word](https://acominf.github.io/CapturingTheWord/)|Luis  Cisneros Torres<br>Zuraya Ivonne Lopez Ortiz
+[You Card Word](https://acominf.github.io/YouCardWord/)|Manuel Alejandro  Robledo Briones<br> Roberto Ignacio Zapata Govea
+
+## Grupo 11-12
 Proyecto | Autor(es)|Aprobado
 ---------|----------|--------
 [App para restaurantes](https://acominf.github.io/AppRestaurante/)|Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz
@@ -14,3 +28,19 @@ Proyecto | Autor(es)|Aprobado
 [Tiny Travel Inside Beasts](https://acominf.github.io/TinyTravel/)|Alejandro Esau Alvarez Ruiz<br>Zazil Josefina Ibarra Cuevas
 [Top Gear](https://acominf.github.io/TopGear/)|Enrique Murillo Rivera
 [Turn it on!](https://acominf.github.io/TurnItOn/)|José Pablo García Limón<br>Daniel Omar Torres Carbajal
+
+## Grupo 17-18
+Proyecto | Autor(es)|Aprobado
+---------|----------|--------
+[Flappy Eagle](https://acominf.github.io/FlappyEagle/)|Jorge Hernan Casillas Cabrera
+[BomberMario](https://acominf.github.io/BomberMario/)|Mario Hernández Martinez
+[App de control de casa](https://acominf.github.io/AppControlCasa/)|Diego Pilar Carmona
+[EPN vs Trump](https://acominf.github.io/EPNvsTrump/)|Luis David Rendón Vazquez
+[Minina Game](https://acominf.github.io/MininaGame/)|Xochitl América Rodriguez Villanueva
+[Adventure in the Space](https://acominf.github.io/AdventureInSpace/)|Andres Alejandro Araiza Villa<br>Felipe de Jesús Gonzalez Reyes
+[El Planeta de las letras](https://acominf.github.io/PlanetaDeLetras/)|Juan Carlos Alonso González<br>Jose Sebastian Govea Celestino
+[La milpa](https://acominf.github.io/LaMilpa/)|Agustín Israel  Vergara Navor
+[MoveIn City](https://acominf.github.io/MoveInCity/)|Eduardo Berrones Lopez
+[Ryu Ninja](https://acominf.github.io/RyuNinja/)|Eduardo Luna Mireles<br>Jorge Mendoza Garcia
+[Hermano Mauricio](https://acominf.github.io/HermanoMauricio/)|Javier Omar Padrón Perez
+[Hungry Ball](https://acominf.github.io/HungryBall/)|Armando Montañez Villafuerte
