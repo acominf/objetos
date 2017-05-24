@@ -2,7 +2,7 @@
 
 Estado|Proyecto | Autor(es)
 --------|---------|----------
-:hourglass:|[App para restaurantes](https://acominf.github.io/AppRestaurante/)|Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz
+::hourglass::|[App para restaurantes](https://acominf.github.io/AppRestaurante/)|Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz
 :hourglass:|[ChambApp](https://acominf.github.io/ChambApp/)|José Bernardo Bernal Cabrera<br>David Andres Garza Medina
 :hourglass:|[CodeLine](https://acominf.github.io/CodeLine/)|Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda
 :hourglass:|[Corre Corre!!!](https://acominf.github.io/CorreCorre/)|Luis Ángel Carrizales Cerda
