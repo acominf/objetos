@@ -53,13 +53,13 @@ You Card Word</a></td><td>Manuel Alejandro  Robledo Briones<br> Roberto Ignaci
 </thead>
 <tbody>
 <tr><td><a target='_blank' href='https://acominf.github.io/AppRestaurante/'>
-App Restaurantes</a></td><td>Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz</td><td>N</td></tr>
+App Restaurantes</a></td><td>Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/ChambApp/'>
 ChambApp</a></td><td>José Bernardo Bernal Cabrera<br>David Andres Garza Medina</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CodeLine/'>
-CodeLine</a></td><td>Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda</td><td>N</td></tr>
+CodeLine</a></td><td>Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CorreCorre/'>
 Corre Corre!!!</a></td><td>Luis Ángel Carrizales Cerda</td><td>N</td></tr>
@@ -68,25 +68,25 @@ Corre Corre!!!</a></td><td>Luis Ángel Carrizales Cerda</td><td>N</td></tr>
 Cruza por el premio</a></td><td>Sonia Virginia Hernández Huerta</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CygnusX-1/'>
-Cygnus X-1</a></td><td>Oscar Armando Gonzalez Patiño<br>Hector Andrey Hernandez Alonso</td><td>N</td></tr>
+Cygnus X-1</a></td><td>Oscar Armando Gonzalez Patiño<br>Hector Andrey Hernandez Alonso</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/EditorUML/'>
-Editor UML</a></td><td>Ivan Eduardo Martínez Cadena<br>Diego Alejandro Ochoa Gonzalez</td><td>N</td></tr>
+Editor UML</a></td><td>Ivan Eduardo Martínez Cadena (*)<br>Diego Alejandro Ochoa Gonzalez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/GameOfSakura/'>
-Game of Sakura</a></td><td>Karen Daniela Bautista Martínez<br>Margarita Neftalí Méndez Rodríguez</td><td>N</td></tr>
+Game of Sakura</a></td><td>Karen Daniela Bautista Martínez<br>Margarita Neftalí Méndez Rodríguez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/MegaSoldier/'>
-Mega Soldier</a></td><td>Jonathan Israel Baro De León<br>Karla Stephania Rosas Del Valle</td><td>N</td></tr>
+Mega Soldier</a></td><td>Jonathan Israel Baro De León<br>Karla Stephania Rosas Del Valle</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TinyTravel/'>
-Tiny Travel</a></td><td>Alejandro Esau Alvarez Ruiz<br>Zazil Josefina Ibarra Cuevas</td><td>N</td></tr>
+Tiny Travel</a></td><td>Alejandro Esau Alvarez Ruiz<br>Zazil Josefina Ibarra Cuevas</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TopGear/'>
 Top Gear</a></td><td>Enrique Murillo Rivera</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TurnItOn/'>
-Turn it on!</a></td><td>José Pablo García Limón<br>Daniel Omar Torres Carbajal</td><td>N</td></tr>
+Turn it on!</a></td><td>José Pablo García Limón<br>Daniel Omar Torres Carbajal</td><td>S</td></tr>
 
 </tbody>
 </table>
