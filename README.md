@@ -103,16 +103,16 @@ Turn it on!</a></td><td>José Pablo García Limón<br>Daniel Omar Torres Carbaja
 </thead>
 <tbody>
 <tr><td><a target='_blank' href='https://acominf.github.io/FlappyEagle/'>
-Flappy Eagle</a></td><td>Jorge Hernan Casillas Cabrera</td><td>N</td></tr>
+Flappy Eagle</a></td><td>Jorge Hernan Casillas Cabrera</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/BomberMario/'>
 BomberMario</a></td><td>Mario Hernández Martinez</td><td>N</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/AppControlCasa/'>
-App de control de casa</a></td><td>Diego Pilar Carmona</td><td>N</td></tr>
+App de control de casa</a></td><td>Diego Pilar Carmona</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/EPNvsTrump/'>
-EPN vs Trump</a></td><td>Luis David Rendón Vazquez</td><td>N</td></tr>
+EPN vs Trump</a></td><td>Luis David Rendón Vazquez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/MininaGame/'>
 Minina Game</a></td><td>Xochitl América Rodriguez Villanueva</td><td>N</td></tr>
