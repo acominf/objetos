@@ -12,31 +12,31 @@
 </thead>
 <tbody>
 <tr><td><a target='_blank' href='https://acominf.github.io/WordOfWarcaft/'>
-Word of Warcaft</a></td><td>Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz</td><td>N</td></tr>
+Word of Warcaft</a></td><td>Néstor Javier Mendez Gutierrez<br>Antonio De Jesús  Noyola Ruiz</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/SpaceTime/'>
-Space Time</a></td><td>Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales</td><td>N</td></tr>
+Space Time</a></td><td>Carlos Daniel González Reyna<br>Miguel Angel   Vazquez Vidales</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CatchVerbs/'>
-Catch-Verbs</a></td><td>Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez</td><td>N</td></tr>
+Catch-Verbs</a></td><td>Cristhian Saray  Morales Zamora<br>Josue Andres  Torres Perez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TowerDefense/'>
-Tower Defense</a></td><td>Erick  Garrigos Saucedo<br>Jairo Trujillo Mendez</td><td>N</td></tr>
+Tower Defense</a></td><td>Erick  Garrigos Saucedo<br>Jairo Trujillo Mendez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/DungeonOfWords/'>
-Dungeon of Words</a></td><td>Gerardo Antonio Varela Tristan<br>Ricardo Enrique Moreno Torres</td><td>N</td></tr>
+Dungeon of Words</a></td><td>Gerardo Antonio Varela Tristan<br>Ricardo Enrique Moreno Torres</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/Upbars/'>
-Upbars</a></td><td>Jonathan Eduardo Quistiano Hernandez<br>Salvador Rivera</td><td>N</td></tr>
+Upbars</a></td><td>Jonathan Eduardo Quistiano Hernandez<br>Salvador Rivera</td><td>S (solo Jonathan)</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/Acertijos/'>
-Acertijos</a></td><td>Josue Misael  Agundis Romero<br>Reyna Sarahi Avila Gonzalez</td><td>N</td></tr>
+Acertijos</a></td><td>Josue Misael  Agundis Romero<br>Reyna Sarahi Avila Gonzalez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CapturingTheWord/'>
-Capturing the Word</a></td><td>Luis  Cisneros Torres<br>Zuraya Ivonne Lopez Ortiz</td><td>N</td></tr>
+Capturing the Word</a></td><td>Luis  Cisneros Torres<br>Zuraya Ivonne Lopez Ortiz</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/YouCardWord/'>
-You Card Word</a></td><td>Manuel Alejandro  Robledo Briones<br> Roberto Ignacio Zapata Govea</td><td>N</td></tr>
+You Card Word</a></td><td>Manuel Alejandro  Robledo Briones<br> Roberto Ignacio Zapata Govea</td><td>S</td></tr>
 
 </tbody>
 </table>
