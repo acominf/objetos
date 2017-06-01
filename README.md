@@ -56,7 +56,7 @@ You Card Word</a></td><td>Manuel Alejandro  Robledo Briones<br> Roberto Ignaci
 App Restaurantes</a></td><td>Mayra Lucero García Ramírez<br>Victor Adrián Suarez Ruiz</td><td>N</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/ChambApp/'>
-ChambApp</a></td><td>José Bernardo Bernal Cabrera<br>David Andres Garza Medina</td><td>N</td></tr>
+ChambApp</a></td><td>José Bernardo Bernal Cabrera<br>David Andres Garza Medina</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CodeLine/'>
 CodeLine</a></td><td>Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda</td><td>N</td></tr>
@@ -83,7 +83,7 @@ Mega Soldier</a></td><td>Jonathan Israel Baro De León<br>Karla Stephania Rosas 
 Tiny Travel</a></td><td>Alejandro Esau Alvarez Ruiz<br>Zazil Josefina Ibarra Cuevas</td><td>N</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TopGear/'>
-Top Gear</a></td><td>Enrique Murillo Rivera</td><td>N</td></tr>
+Top Gear</a></td><td>Enrique Murillo Rivera</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/TurnItOn/'>
 Turn it on!</a></td><td>José Pablo García Limón<br>Daniel Omar Torres Carbajal</td><td>N</td></tr>
