@@ -65,7 +65,7 @@ CodeLine</a></td><td>Rodrigo Gonzalez Tenorio<br>Efraín Emanuel Morín Miranda<
 Corre Corre!!!</a></td><td>Luis Ángel Carrizales Cerda</td><td>N</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CruzaPorElPremio/'>
-Cruza por el premio</a></td><td>Sonia Virginia Hernández Huerta</td><td>N</td></tr>
+Cruza por el premio</a></td><td>Sonia Virginia Hernández Huerta</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/CygnusX-1/'>
 Cygnus X-1</a></td><td>Oscar Armando Gonzalez Patiño<br>Hector Andrey Hernandez Alonso</td><td>N</td></tr>
