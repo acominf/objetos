@@ -1,6 +1,6 @@
 # Proyectos Semestre 2016-2017/II
 
-## Lista de videos concluidos
+## Lista de videos de proyectos concluidos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL_jIXe_fsHTDI80VUKx9vnQza3ccYtvsN" frameborder="0" allowfullscreen></iframe>
 
 
