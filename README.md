@@ -119,13 +119,13 @@ App de control de casa</a></td><td>Diego Pilar Carmona</td><td>S</td></tr>
 EPN vs Trump</a></td><td>Luis David Rendón Vazquez</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/MininaGame/'>
-Minina Game</a></td><td>Xochitl América Rodriguez Villanueva</td><td>N</td></tr>
+Minina Game</a></td><td>Xochitl América Rodriguez Villanueva</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/AdventureInSpace/'>
-Adventure in the Space</a></td><td>Andres Alejandro Araiza Villa<br>Felipe de Jesús Gonzalez Reyes</td><td>N</td></tr>
+Adventure in the Space</a></td><td>Andres Alejandro Araiza Villa<br>Felipe de Jesús Gonzalez Reyes</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/PlanetaDeLetras/'>
-El Planeta de las letras</a></td><td>Juan Carlos Alonso González<br>Jose Sebastian Govea Celestino</td><td>N</td></tr>
+El Planeta de las letras</a></td><td>Juan Carlos Alonso González<br>Jose Sebastian Govea Celestino</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/LaMilpa/'>
 La milpa</a></td><td>Agustín Israel  Vergara Navor</td><td>N</td></tr>
@@ -134,7 +134,7 @@ La milpa</a></td><td>Agustín Israel  Vergara Navor</td><td>N</td></tr>
 MoveIn City</a></td><td>Eduardo Berrones Lopez</td><td>N</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/RyuNinja/'>
-Ryu Ninja</a></td><td>Eduardo Luna Mireles<br>Jorge Mendoza Garcia</td><td>N</td></tr>
+Ryu Ninja</a></td><td>Eduardo Luna Mireles<br>Jorge Mendoza Garcia</td><td>S</td></tr>
 
 <tr><td><a target='_blank' href='https://acominf.github.io/HermanoMauricio/'>
 Hermano Mauricio</a></td><td>Javier Omar Padrón Perez</td><td>N</td></tr>
